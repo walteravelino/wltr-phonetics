@@ -5,7 +5,7 @@
 </a>
 
 [![Build Status](https://travis-ci.com/walteravelino/Projetos.svg?branch=master)](https://travis-ci.com/walteravelino/Projetos)
-<img src = "https://img.shields.io/github/languages/top/walteravelino/jca-cleansing-validate">
+<img src = "https://img.shields.io/github/languages/top/walteravelino/wltr-phonetics">
 <a href="https://github.com/walteravelino/Projetos/blob/master/LICENSE"><img src = "https://img.shields.io/github/license/walteravelino/Projetos"></a>
 
 WltrPhonetics é uma biblioteca Python para algoritmos fonéticos. 
