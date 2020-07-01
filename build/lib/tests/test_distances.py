@@ -1,4 +1,4 @@
-from wltrphonetics.distance_metrics import levenshtein_distance, hamming_distance
+from wltr_phonetics.distance_metrics import levenshtein_distance, hamming_distance
 
 
 def test_levenshtein():

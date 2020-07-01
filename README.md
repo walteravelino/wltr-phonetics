@@ -48,7 +48,7 @@ O módulo está disponível no PyPI, basta instalar pelo pip `pip install wltr-p
 ## Utilização
 
 ```python
->>> from wltrphonetics import Soundex
+>>> from wltr_phonetics import Soundex
 >>> soundex = Soundex()
 >>> soundex.phonetics('Walter')
 'W436'
@@ -61,7 +61,7 @@ False
 A mesma API se aplica a todos os algoritmos, por exemplo:
 
 ```python
->>> from wltrphonetics import Metaphone
+>>> from wltr_phonetics import Metaphone
 >>> metaphone = Metaphone()
 >>> metaphone.phonetics('discriminação')
 'TSKRMNK'
@@ -70,7 +70,7 @@ A mesma API se aplica a todos os algoritmos, por exemplo:
 Você também pode usar o método `distance(word1, word2, metric='levenshtein')` para encontrar a distância entre 2 representações fonéticas.
 
 ```python
->>> from wltrphonetics import RefinedSoundex
+>>> from wltr_phonetics import RefinedSoundex
 >>> rs = RefinedSoundex()
 >>> rs.distance('Walter', 'Waltie')
 1

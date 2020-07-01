@@ -1,6 +1,6 @@
 import pytest
-from wltrphonetics import Soundex, RefinedSoundex, FuzzySoundex
-from wltrphonetics.exceptions import EmptyStringError
+from wltr_phonetics import Soundex, RefinedSoundex, FuzzySoundex
+from wltr_phonetics.exceptions import EmptyStringError
 
 
 def test_soundex():

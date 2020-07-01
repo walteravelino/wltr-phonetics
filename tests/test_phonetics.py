@@ -1,4 +1,4 @@
-from wltrphonetics import Metaphone, Soundex, MatchingRatingApproach,\
+from wltr_phonetics import Metaphone, Soundex, MatchingRatingApproach,\
     FuzzySoundex, Lein, RefinedSoundex
 
 

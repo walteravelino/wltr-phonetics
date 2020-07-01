@@ -6,10 +6,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wltr-phonetics",
-    version="1.0.0",
-    author="Walter José Avelino da Silva",
+    version="1.0.2",
+    author="Walter Avelino",
     author_email="walter.avelin@gmail.com",
-    description="WltrPhonetics.",
+    description="Wltr Phonetics é uma biblioteca de algoritmos fonéticos",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/walteravelino/wltr-phonetics",

@@ -1,4 +1,4 @@
-from wltrphonetics.utils import squeeze, translation
+from wltr_phonetics.utils import squeeze, translation
 
 
 def test_squeeze():

@@ -1,2 +1,2 @@
 tests
-wltrphonetics
+wltr_phonetics
